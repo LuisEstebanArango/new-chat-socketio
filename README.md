@@ -1,4 +1,4 @@
-## Prerequisitos:
+## Prerrequisitos:
 - node.js instalado
 
 ## Instalación y uso:
